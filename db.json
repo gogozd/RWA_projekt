@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Izvaditi preslik iz katastra",
+      "attention": true,
+      "tech": "Drugi Korisnik",
+      "date": "2019-09-18T20:57:23.258Z"
+    },
+    {
+      "id": 2,
+      "message": "Predati projekt",
+      "attention": false,
+      "tech": "Drugi Korisnik",
+      "date": "2019-05-31T16:18:04.245Z"
+    },
+    {
+      "message": "Ispraviti tekstualni dio projekta i uskladiti sa suradnicima",
+      "attention": true,
+      "tech": "Treći Korisnik",
+      "date": "2019-09-18T20:58:23.748Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Prvi",
+      "lastName": "Korisnik"
+    },
+    {
+      "id": 2,
+      "firstName": "Drugi",
+      "lastName": "Korisnik"
+    },
+    {
+      "firstName": "Treći",
+      "lastName": "Korisnik",
+      "id": 3
+    },
+    {
+      "firstName": "Četvrti",
+      "lastName": "Korisnik",
+      "id": 4
+    }
+  ]
+}
